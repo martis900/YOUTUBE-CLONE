@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\bin\Debug\mainFORM.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\bin\Debug\mainFORM.exe
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\bin\Debug\mainFORM.pdb
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.exe
+c:\users\admin\documents\visual studio 2015\Projects\mainFORM\mainFORM\obj\Debug\mainFORM.pdb
