@@ -1,4 +1,3 @@
 # YOUTUBE-CLONE
-YOUTUBE REPLICA
 
-FINAL NKKM PROJECT
+Youtube Windows Dekstop application built using Windows Form, C# and MySQL database.
